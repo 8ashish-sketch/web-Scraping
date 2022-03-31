@@ -1,2 +1,2 @@
 # web-Scraping
-# Scrap data from a e-commerce website 
+# Scrap data from a e-commerce website using beautifulSoup.
